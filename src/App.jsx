@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Banner from './components/banner/Banner';
-import Footer from './components/footer/Footer';
-import Navbar from './components/navbar/Navbar';
+import Banner from './components/banner/Banner.jsx';
+import Footer from './components/footer/Footer.jsx';
+import Navbar from './components/navbar/Navbar.jsx';
 import './App.css';
 
 
