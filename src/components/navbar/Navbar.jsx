@@ -1,3 +1,4 @@
+import React from 'react';
 import './Navbar.css';
 
 function Navbar({ wishlistCount = 0, cartCount = 0 }) {

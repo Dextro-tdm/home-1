@@ -1,9 +1,8 @@
 import React, { useState } from 'react';
-import Navbar from './components/Navbar/Navbar';
 import Banner from './components/Banner/Banner';
 import Footer from './components/Footer/Footer';
+import Navbar from './components/navbar/Navbar';
 import './App.css';
-
 function App() {
   const [wishlist, setWishlist] = useState([]);
   const [cart, setCart] = useState([]);
